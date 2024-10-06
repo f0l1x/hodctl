@@ -1,0 +1,25 @@
+# Editor and IDE configurations
+/.idea/
+/.vscode/
+/*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Goland, VSCode, or other IDE configuration files
+*.iml
+/.idea
+/.vscode
+.project
+.classpath
+.settings/
+.metadata/
+
+
+# Cache and dependency directories
+*.log
+*.lock
+*.cache
+*.tmp
+*.temp
